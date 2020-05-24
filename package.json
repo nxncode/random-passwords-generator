@@ -1,0 +1,15 @@
+{
+  "name": "random-passwords-generator",
+  "version": "1.0.0",
+  "description": "A npm package that helps you generate random passwords by passing in a criteria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://test.om"
+  },
+  "author": "Nixon Augustine",
+  "license": "MIT"
+}
