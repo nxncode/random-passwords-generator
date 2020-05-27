@@ -1,6 +1,6 @@
 {
   "name": "random-passwords-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A npm package that helps you generate random passwords by passing in a criteria.",
   "main": "index.js",
   "scripts": {
