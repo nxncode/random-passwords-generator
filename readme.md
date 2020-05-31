@@ -3,6 +3,8 @@
 
 # random-passwords-generator
 
+[![Build Status](https://travis-ci.org/nxncode/random-passwords-generator.svg?branch=master)](https://travis-ci.org/nxncode/random-passwords-generator)
+
 Random passwords generator is used to generate passwords that may contain alphabets, number and special characters. The options parameter enables the user to enable or disabe the characters that are used to generate the password. The characters that may be choosen from are
 
 * Lowercase Characters
@@ -231,3 +233,13 @@ The password will contain numbers only without any characters or special charact
 The options can be altered as per the requirement to generate the required password of required strength and complexity.
 
 ***NOTE : If values are not assigned to the options, then the default values will be taken.***
+
+## License
+
+Copyright (c) 2020  Nixon Augustine
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
